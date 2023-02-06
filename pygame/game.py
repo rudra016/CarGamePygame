@@ -44,7 +44,7 @@ while running:
 
     # increase game difficulty overtime
     if counter == 5000:
-        speed += 0.15
+        speed += 0.50
         counter = 0
         print("level up", speed)
 
